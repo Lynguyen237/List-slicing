@@ -195,7 +195,6 @@ def delete_third_and_seventh(input_list):
     input_list.pop(6)
     input_list.pop(2)    
 
-    pass
 
 
 def delete_middle(input_list):
@@ -212,7 +211,7 @@ def delete_middle(input_list):
 
     """
     del input_list [2:-2]
-    pass
+
 
 
 # This is the part were we actually run the doctests.
